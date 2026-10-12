@@ -17,9 +17,13 @@ coverage.*
 !coverage.go
 *.coverprofile
 profile.cov
+*.log
 
 # Dependency directories (remove the comment below to include it)
-# vendor/
+vendor/
+
+# Build directory
+build/
 
 # Go workspace file
 go.work
