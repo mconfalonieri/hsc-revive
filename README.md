@@ -1,2 +1,3 @@
-# hsc-revive
-A tracker for HSC music
+# HSC Revive
+
+A tracker for HSC music in the XXI century.
